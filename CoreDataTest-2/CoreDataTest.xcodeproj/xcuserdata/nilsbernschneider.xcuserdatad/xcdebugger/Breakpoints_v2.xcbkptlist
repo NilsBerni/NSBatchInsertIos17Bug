@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8184226F-5E81-44F2-B056-B7E17BF71983"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C4F4D48-0B92-4AB4-8DC7-8E830F462553"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataTest/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "batchInsert()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51E9E802-EEAF-4EFF-BA8D-D905F876FD82"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataTest/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "batchInsert()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F587EC2D-FAE6-4CA6-9506-BA791126DBB7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataTest/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "batchInsert()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F587EC2D-FAE6-4CA6-9506-BA791126DBB7 - fae969838a0102de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CoreDataTest.ContentView.batchInsert() -&gt; ()"
+                  moduleName = "CoreDataTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nilsbernschneider/Downloads/CoreDataTest/CoreDataTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "800">
+               </Location>
+               <Location
+                  uuid = "F587EC2D-FAE6-4CA6-9506-BA791126DBB7 - 6ff3d0651de5dcc9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Value Promoted from Box&gt; of closure #1 (__C.NSMutableDictionary) -&gt; Swift.Bool in closure #1 () -&gt; () in CoreDataTest.ContentView.batchInsert() -&gt; ()"
+                  moduleName = "CoreDataTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nilsbernschneider/Downloads/CoreDataTest/CoreDataTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "F587EC2D-FAE6-4CA6-9506-BA791126DBB7 - fae969838a0102de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CoreDataTest.ContentView.batchInsert() -&gt; ()"
+                  moduleName = "CoreDataTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nilsbernschneider/Downloads/CoreDataTest/CoreDataTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "812">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6E4F9C9-1E0F-48FD-B12E-4284E596E7BA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataTest/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "batchInsert()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A6E4F9C9-1E0F-48FD-B12E-4284E596E7BA - fae969838a010938"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CoreDataTest.ContentView.batchInsert() -&gt; ()"
+                  moduleName = "CoreDataTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nilsbernschneider/Downloads/CoreDataTest/CoreDataTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "3080">
+               </Location>
+               <Location
+                  uuid = "A6E4F9C9-1E0F-48FD-B12E-4284E596E7BA - fae969838a0107b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CoreDataTest.ContentView.batchInsert() -&gt; ()"
+                  moduleName = "CoreDataTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nilsbernschneider/Downloads/CoreDataTest/CoreDataTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "3036">
+               </Location>
+               <Location
+                  uuid = "A6E4F9C9-1E0F-48FD-B12E-4284E596E7BA - fae969838a0107b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CoreDataTest.ContentView.batchInsert() -&gt; ()"
+                  moduleName = "CoreDataTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nilsbernschneider/Downloads/CoreDataTest/CoreDataTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "2928">
+               </Location>
+               <Location
+                  uuid = "A6E4F9C9-1E0F-48FD-B12E-4284E596E7BA - fae969838a0107b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CoreDataTest.ContentView.batchInsert() -&gt; ()"
+                  moduleName = "CoreDataTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nilsbernschneider/Downloads/CoreDataTest/CoreDataTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "2800">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2481A0E7-CF7C-4F98-8DA7-2E725DDF6BAD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataTest/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "batchInsert()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2481A0E7-CF7C-4F98-8DA7-2E725DDF6BAD - fae969838a010729"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CoreDataTest.ContentView.batchInsert() -&gt; ()"
+                  moduleName = "CoreDataTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nilsbernschneider/Downloads/CoreDataTest/CoreDataTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "2568">
+               </Location>
+               <Location
+                  uuid = "2481A0E7-CF7C-4F98-8DA7-2E725DDF6BAD - fae969838a010729"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CoreDataTest.ContentView.batchInsert() -&gt; ()"
+                  moduleName = "CoreDataTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nilsbernschneider/Downloads/CoreDataTest/CoreDataTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "2888">
+               </Location>
+               <Location
+                  uuid = "2481A0E7-CF7C-4F98-8DA7-2E725DDF6BAD - fae969838a010729"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CoreDataTest.ContentView.batchInsert() -&gt; ()"
+                  moduleName = "CoreDataTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nilsbernschneider/Downloads/CoreDataTest/CoreDataTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "920">
+               </Location>
+               <Location
+                  uuid = "2481A0E7-CF7C-4F98-8DA7-2E725DDF6BAD - fae969838a010729"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CoreDataTest.ContentView.batchInsert() -&gt; ()"
+                  moduleName = "CoreDataTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nilsbernschneider/Downloads/CoreDataTest/CoreDataTest/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "908">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
